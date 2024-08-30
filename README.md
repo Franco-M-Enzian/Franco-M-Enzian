@@ -6,4 +6,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Franco-M-Enzian&theme=radical&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franco-M-ENzian&repo=HouseHoldAccountsApp&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franco-M-ENzian&repo=HouseHoldAccountsApp&theme=rose)](https://github.com/Franco-M-Enzian/HouseHoldAccountsApp)
